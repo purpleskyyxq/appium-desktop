@@ -157,7 +157,7 @@
     "devtron": "1.x",
     "dir-compare": "^1.4.0",
     "electron": "1.7.11",
-    "electron-builder": "^20.4.0",
+    "electron-builder": "^13.11.1",
     "electron-builder-squirrel-windows": "^20.4.0",
     "electron-devtools-installer": "^2.2.3",
     "eslint": "3.x",
@@ -198,6 +198,6 @@
   },
   "engines": {
     "node": ">=6.x <=7.x",
-    "npm": ">=3.x <=4.x"
+    "npm": ">=5.x"
   }
 }
